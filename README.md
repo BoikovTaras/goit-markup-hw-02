@@ -1,2 +1,3 @@
 # goit-markup-hw-02
-Home worck #2
+
+HomeWork №2
