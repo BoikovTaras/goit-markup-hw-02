@@ -205,6 +205,7 @@ body {
 /* ================== ПОРТФОЛИО =================== */
 /* ================== Навигация =================== */
 .portfolio-navigation-button {
+  font-family: var(--font-roboto);
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
